@@ -1,0 +1,82 @@
+icl_translation:
+  table: icl_translations
+  id: translation_id
+
+icl_content_status:
+  table: icl_content_status
+  id: rid
+
+icl_core_status:
+  table: icl_core_status
+  id: id
+
+icl_flag:
+  table: icl_flags
+  id: id
+
+icl_language:
+  table: icl_languages
+  id: id
+
+icl_languages_translation:
+  table: icl_languages_translations
+  id: id
+
+icl_locale_map:
+  table: icl_locale_map
+
+icl_message_status:
+  table: icl_message_status
+  id: id
+
+icl_node:
+  table: icl_node
+  id: nid
+
+icl_reminder:
+  table: icl_reminders
+  id: id
+
+icl_string:
+  table: icl_strings
+  id: id
+
+icl_string_package:
+  table: icl_string_packages
+  id: ID
+
+icl_string_page:
+  table: icl_string_pages
+  id: id
+
+icl_string_position:
+  table: icl_string_positions
+  id: id
+
+icl_string_status:
+  table: icl_string_status
+  id: id
+
+icl_string_translation:
+  table: icl_string_translations
+  id: id
+
+icl_string_url:
+  table: icl_string_urls
+  id: id
+
+icl_translate:
+  table: icl_translate
+  id: tid
+
+icl_translate_job:
+  table: icl_translate_job
+  id: job_id
+
+icl_translation_batch:
+  table: icl_translation_batches
+  id: id
+
+icl_translation_status:
+  table: icl_translation_status
+  id: rid
